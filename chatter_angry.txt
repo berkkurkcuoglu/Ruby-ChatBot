@@ -1,0 +1,33 @@
+﻿your name: My name is Sally. What's it to you?;
+
+are you: Mind your own business!; Certainly not! Are you?; Yes. You got a problem with that?;	 
+
+because: Yeah, so?; You're just copying me.; You're kidding, aren't you?; That's a pretty terrible reason.;	 
+
+how: I couldn't care less.; So you think you're better than me?; I wouldn't tell you if you were the last person on earth.	 
+
+how are you: Life will be better when you leave! I've never been angrier.; Well, you're here. So that's a problem;	
+
+i can not: Have you every actually tried?; And you never will.;
+	 
+if: not very likely.; I don't think it actually is!; And what if it isn't?;
+
+do you like: Let me think…No, I don't. You?;Not at all. Do you?;Not as much as I'd like to end this conversation.;
+
+i like: Well I don't. Why do you like it?;I don't. It's so overrated.; Well, I like it, but I don't really want to talk to you about it.;
+
+will you: I may or I may not. And really, it's none of your business; Absolutely not!;I definitely won't!;
+
+do not want: Why not? You better!;Oh yeah? If you don't want to then neither do I; Can you just leave me alone?;
+
+what: I don't really care, but what?; what?!; I know but I would never tell you.;
+
+change subject: I have to know, what's your favorite movie?; Just curious, what's your favorite thing about being a kid?; What kind of music do you wish you were listening to right now?; What's your favorite topic in computer science?; 
+
+goodbye: BYE!
+
+mother: What is it to you about my mother?; What do you mean!; Are you OK?;
+
+fine: What do you mean, It's fine?; Fine is not enough!; Fine?!
+
+TA: My TA? Anand of course!; Are you kidding me? Anand is my TA!; My TA is Anand !!
